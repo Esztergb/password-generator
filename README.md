@@ -27,3 +27,32 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+
+## Description
+
+See under User Story
+
+## Installation
+
+The link to deployed application is: https://esztergb.github.io/password-generator/
+
+GitHub Link: https://github.com/Esztergb/password-generator.git
+
+
+
+![ScreenShot](assets/Screenshot%202023-04-20%20at%209.17.13%20AM.png)
+
+## Usage
+
+This project was created to incorporate informations shared on JavaScript.
+
+## Credits
+
+Thank you for tips and sugestions from Bootcamp instructors and classmates. 
+I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information.
+I have reviewed you tube videos from Ania Kubow and Traversy Media to help me with this project. 
+
+## License
+
+N/A - Bootcamp Challange 3
